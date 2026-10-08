@@ -31,6 +31,7 @@ An open-source, LLM-powered quantitative research tool built to discover, analyz
 ### Prerequisites
 * Python 3.10+
 * Anthropic API Key (`ANTHROPIC_API_KEY`)
+* Any Other Provider's Key
 
 ### Installation
 
